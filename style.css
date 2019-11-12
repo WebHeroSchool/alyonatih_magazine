@@ -1,9 +1,13 @@
+. {
+	font-family: 'Fira Sans', sans-serif;
+}
 h1 {
 	margin-left: 256px;
 	font-size: 73px;
 	width: 50%;
 	letter-spacing: 25px;
 	margin-top: 0px;
+	font-family: 'Yeon Sung', cursive;
 }
 h2 {
 	color: red;
